@@ -1,0 +1,5 @@
+review_id,timestamp,customer_name,product_id,review_text,star_rating,sentiment_tag
+REV101,2026-06-19 14:20,Zain Khan,PROD001,The laptop stand is good but delivery took 6 days. Box was totally crushed.,3,Neutral
+REV102,2026-06-20 09:15,Ayesha Malik,PROD002,Amazing wireless mouse! Battery life is crazy good. Highly recommended.,5,Positive
+REV103,2026-06-20 18:45,Bilal Ahmed,PROD003,The USB-C cable literally stopped charging my phone after just two days. Waste of money.,1,Negative
+REV104,2026-06-21 11:30,Sana Raza,PROD003,Cable heating up my phone. Delivery was fast but product quality is very poor.,1,Negative

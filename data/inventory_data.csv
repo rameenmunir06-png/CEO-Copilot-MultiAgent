@@ -1,0 +1,5 @@
+product_id,product_name,current_stock,reorder_level,unit_cost_pkr,supplier_lead_time_days,stock_status
+PROD001,Premium Laptop Stand,8,15,3500,5,Low Stock Risk
+PROD002,Ergonomic Wireless Mouse,85,20,2200,3,In Stock
+PROD003,UltraFast USB-C Cable,3,25,800,7,Critical Low Stock
+PROD004,Mechanical Keyboard,12,10,8500,4,In Stock
